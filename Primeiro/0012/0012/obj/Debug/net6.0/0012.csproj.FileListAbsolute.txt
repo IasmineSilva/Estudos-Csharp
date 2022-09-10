@@ -1,0 +1,15 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\bin\Debug\net6.0\0012.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\bin\Debug\net6.0\0012.deps.json
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\bin\Debug\net6.0\0012.runtimeconfig.json
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\bin\Debug\net6.0\0012.dll
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\bin\Debug\net6.0\0012.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\obj\Debug\net6.0\0012.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\obj\Debug\net6.0\0012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\obj\Debug\net6.0\0012.AssemblyInfoInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\obj\Debug\net6.0\0012.AssemblyInfo.cs
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\obj\Debug\net6.0\0012.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\obj\Debug\net6.0\0012.dll
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\obj\Debug\net6.0\refint\0012.dll
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\obj\Debug\net6.0\0012.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\obj\Debug\net6.0\0012.genruntimeconfig.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\Primeiro\0012\0012\obj\Debug\net6.0\ref\0012.dll
