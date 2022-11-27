@@ -1,0 +1,8 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\calculoproduto\calculoproduto\bin\Debug\calculoproduto.exe.config
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\calculoproduto\calculoproduto\bin\Debug\calculoproduto.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\calculoproduto\calculoproduto\bin\Debug\calculoproduto.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\calculoproduto\calculoproduto\obj\Debug\calculoproduto.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\calculoproduto\calculoproduto\obj\Debug\calculoproduto.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\calculoproduto\calculoproduto\obj\Debug\calculoproduto.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\calculoproduto\calculoproduto\obj\Debug\calculoproduto.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\ws-vs2022\calculoproduto\calculoproduto\obj\Debug\calculoproduto.pdb
