@@ -10,33 +10,26 @@ namespace _007
     {
         static void Main(string[] args)
         {
-public string Nome;
-        public double Nota1, Nota2, Nota3;
-        public double NotaFinal()
-        {
-            return Nota1 + Nota2 + Nota3;
-        }
-        public bool Aprovado()
-        {
-            if (NotaFinal() >= 60.0)
+            String frase;
+            String NovaFrase = "";
+
+            do
             {
-                return true;
-            }
-            else
+                Console.WriteLine("Digite sua frase (ate 50 characteres) :");
+                frase = Convert.ToString(Console.ReadLine());
+
+            } while (frase.Length  > 50)hg                                                                                         ;
+
+            char[] ArrayChars = frase.ToCharArray();
+
+            for (int x = 0; x < ArrayChars.Length; x++)
             {
-                return false;
+                if (ArrayChars[x] != ' ')
+                {
+                    NovaFrase = NovaFrase + ArrayChars[x];
+                }
             }
-        }
-        public double NotaRestante()
-        {
-            if (Aprovado())
-            {
-                return 0.0;
-            }
-            else
-            {
-                return 60.0 - NotaFinal();
-            }
+            Console.WriteLine("Nova frase: " + NovaFrase);
         }
     }
 }
